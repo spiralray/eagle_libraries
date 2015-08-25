@@ -1,0 +1,16 @@
+*.b#*
+*.s#*
+*.l#*
+*.pro
+*.cmp
+*.drd
+*.dri
+*.gpi
+*.out
+*.plc
+*.sol
+*.stc
+*.sts
+*.epf
+*.mit
+*.txt
